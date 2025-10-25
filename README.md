@@ -10,7 +10,7 @@ I’m a passionate **Software Engineer** with a focus on backend development. I 
 - To collaborate with a like-minded team and learn from industry experts.
 
 ### 🌱 I’m currently learning:
-- **Backend Technologies**: Node.js, Python, Java, Go, etc.
+- **Backend Technologies**: Node.js, Python, Nest.js etc.
 - **Databases**: MySQL, MongoDB, PostgreSQL, etc.
 - **Cloud**: AWS, Azure, Google Cloud.
 - **DevOps & Automation**: Docker, Kubernetes, CI/CD.
