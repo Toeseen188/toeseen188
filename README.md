@@ -19,5 +19,5 @@ I'm a passionate **[Junior Software Developer]** with experience in **[Python, J
 
 ## Get in Touch 📬
 
-- **[LinkedIn]**(linkedin.com/in/hammed-tosin-72774b230)
-- **[Twitter]**(https://0xtoyo_xyz)
+- **[LinkedIn]**(https://linkedin.com/in/hammed-tosin-72774b230)
+- **[Twitter]**(https://x.com/0xtoyo_xyz)
