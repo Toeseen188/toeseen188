@@ -1,23 +1,58 @@
-# Hi there, I'm Hammed Tosin! 👋
+# Welcome to My GitHub Profile 👋
 
-## About Me 🚀
+## Hi, I'm Hammed Tosin. 👨‍💻
 
-I'm a passionate **Junior Software Developer** with experience in **Python, JavaScript, C, Django, Flask, Node, and TypeScript**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
-- 🌱 Currently learning: **Containers for infrastructure automation and Django for advanced backend application development**
-- 🔭 Working on: **A project I'll share with the public soon**
-- 🌍 Languages: **Python, JavaScript, C, and English**
-- 📫 How to reach me: **hammedtosin188@gmail.com**
-- ⚡ Fun fact: **I am a fully kinesthetic learner. I can't truly understand a concept until I am physically writing the code or mapping the system architecture out on a whiteboard.**
+I’m a passionate **Software Engineer** with a focus on backend development. I love solving real-world problems and working on complex projects that challenge my abilities. My journey in software engineering started with the desire to build impactful solutions for people. I am constantly learning, growing, and pushing myself to become the best in the field.
 
-## My Skills 🧠
+### 🚀 My Mission
+- To develop scalable, efficient, and high-quality software that makes a meaningful impact on people’s lives.
+- To work on challenging and large-scale projects that allow me to hone my skills and grow as an engineer.
+- To collaborate with a like-minded team and learn from industry experts.
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Nest.js](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+### 🌱 I’m currently learning:
+- **Backend Technologies**: Node.js, Python, Java, Go, etc.
+- **Databases**: MySQL, MongoDB, PostgreSQL, etc.
+- **Cloud**: AWS, Azure, Google Cloud.
+- **DevOps & Automation**: Docker, Kubernetes, CI/CD.
+- **Software Architecture & Design**: Microservices, Event-Driven Architecture.
 
-## Get in Touch 📬
+---
 
-- **LinkedIn**(https://linkedin.com/in/hammed-tosin-72774b230)
-- **Twitter**(https://x.com/0xtoyo_xyz)
+### 💼 Current Projects
+
+#### **Airbnb Clone Backend**
+- **Description**: A high-performance, scalable, and secure backend system designed to replicate Airbnb’s core functionalities. The project includes robust user authentication, property management, booking workflows, review systems, and secure payment processing. Built using **Python (Django)** and **PostgreSQL**, it leverages **DRF**, **GraphQL**, **Celery**, **Redis**, and **Docker** for asynchronous processing, caching, and deployment consistency.
+- **Tech Stack**: Python (Django, DRF), PostgreSQL, GraphQL, Celery, Redis, Docker, CI/CD (GitHub Actions)
+- **Link to Project**: https://github.com/Toeseen188/airbnb-clone-project
+
+---
+
+### 🔧 Skills & Technologies
+Here are some of the key skills and technologies I work with:
+- **Languages**: JavaScript, Python, C 
+- **Web Development**: Node.js, Express, Django, Flask, React, Nest.jw  
+- **Databases**: MongoDB, MySQL, PostgreSQL, Firebase  
+- **DevOps**: Docker, Kubernetes, AWS, Terraform  
+- **Tools**: Git, Jira, Postman, VS Code, etc.
+
+---
+
+### 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=toeseen188&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+
+---
+
+### 🌐 Connect with Me:
+- **LinkedIn**: (https://linkedin.com/in/hammed-tosin-72774b230)  
+
+---
+
+### 🎯 Future Goals
+- Continue building open-source projects that contribute to the developer community.  
+- Gain deep expertise in backend technologies and cloud architecture.  
+- Contribute to impactful projects that drive innovation in industries such as fintech, healthtech, and education.  
+
+---
+
+### 🔗 Let’s Collaborate!
+I’m always open to new opportunities and collaborations. If you think we could build something amazing together, feel free to reach out via Hammedtosin188@gmail.com.
