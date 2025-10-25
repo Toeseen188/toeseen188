@@ -1,13 +1,13 @@
-# Hi there, I'm [Hammed Tosin]! 👋
+# Hi there, I'm Hammed Tosin! 👋
 
 ## About Me 🚀
 
-I'm a passionate **[Junior Software Developer]** with experience in **[Python, JavaScript, C, Django, Flask, Node, and TypeScript]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
-- 🌱 Currently learning: **[Kubernetes (K8s) for infrastructure automation and Django for advanced backend application development]**
-- 🔭 Working on: **[A project I'll share with the public soon]**
-- 🌍 Languages: **[Python, JavaScript, C, and English]**
-- 📫 How to reach me: **[hammedtosin188@gmail.com]**
-- ⚡ Fun fact: **[I am a fully kinesthetic learner. I can't truly understand a concept until I am physically writing the code or mapping the system architecture out on a whiteboard.]**
+I'm a passionate **Junior Software Developer** with experience in **Python, JavaScript, C, Django, Flask, Node, and TypeScript**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+- 🌱 Currently learning: **Containers for infrastructure automation and Django for advanced backend application development**
+- 🔭 Working on: **A project I'll share with the public soon**
+- 🌍 Languages: **Python, JavaScript, C, and English**
+- 📫 How to reach me: **hammedtosin188@gmail.com**
+- ⚡ Fun fact: **I am a fully kinesthetic learner. I can't truly understand a concept until I am physically writing the code or mapping the system architecture out on a whiteboard.**
 
 ## My Skills 🧠
 
@@ -19,5 +19,5 @@ I'm a passionate **[Junior Software Developer]** with experience in **[Python, J
 
 ## Get in Touch 📬
 
-- **[LinkedIn]**(https://linkedin.com/in/hammed-tosin-72774b230)
-- **[Twitter]**(https://x.com/0xtoyo_xyz)
+- **LinkedIn**(https://linkedin.com/in/hammed-tosin-72774b230)
+- **Twitter**(https://x.com/0xtoyo_xyz)
